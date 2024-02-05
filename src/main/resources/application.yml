@@ -1,0 +1,4 @@
+spring:
+  ai:
+    open-ai:
+      api-key: "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"
